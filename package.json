@@ -1,0 +1,27 @@
+{
+  "name": "algorithms_node",
+  "version": "1.0.0",
+  "description": "test of algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genofonte/algorithms_node.git"
+  },
+  "author": "jose antonio diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genofonte/algorithms_node/issues"
+  },
+  "homepage": "https://github.com/genofonte/algorithms_node#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
